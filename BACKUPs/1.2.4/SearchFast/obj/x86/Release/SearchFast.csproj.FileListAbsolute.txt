@@ -1,0 +1,31 @@
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Release\SearchFast.Form1.resources
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Release\SearchFast.Properties.Resources.resources
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\bin\Release\SearchFast.exe.config
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\bin\Release\SearchFast.exe
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\bin\Release\SearchFast.pdb
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Release\SearchFast.exe
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Release\SearchFast.pdb
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\bin\Release\SearchFast.exe.config
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\obj\x86\Release\SearchFast.exe
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\obj\x86\Release\SearchFast.pdb
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\bin\Release\SearchFast.exe
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\bin\Release\SearchFast.pdb
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\obj\x86\Release\SearchFast.csprojResolveAssemblyReference.cache
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\obj\x86\Release\SearchFast.Form1.resources
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\obj\x86\Release\SearchFast.Properties.Resources.resources
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\obj\x86\Release\SearchFast.csproj.GenerateResource.Cache
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\bin\Release\SearchFast.exe.config
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\bin\Release\SearchFast.exe
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\bin\Release\SearchFast.pdb
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\x86\Release\SearchFast.csprojAssemblyReference.cache
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\x86\Release\SearchFast.Form1.resources
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\x86\Release\SearchFast.Properties.Resources.resources
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\x86\Release\SearchFast.csproj.GenerateResource.cache
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\x86\Release\SearchFast.csproj.CoreCompileInputs.cache
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\x86\Release\SearchFast.exe
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\x86\Release\SearchFast.pdb

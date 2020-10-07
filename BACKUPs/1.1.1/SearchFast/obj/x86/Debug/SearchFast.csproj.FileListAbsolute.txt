@@ -1,0 +1,20 @@
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\bin\Debug\SearchFast.exe
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\bin\Debug\SearchFast.pdb
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Debug\SearchFast.Form1.resources
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Debug\SearchFast.Properties.Resources.resources
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Debug\SearchFast.exe
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Debug\SearchFast.pdb
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\bin\Debug\SearchFast.exe.config
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Mateusz\Pulpit\Minecraft Launcher by mas22\NewLauncher Full Wypas\SearchFast\SearchFast\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\bin\Debug\SearchFast.exe.config
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\bin\Debug\SearchFast.exe
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\bin\Debug\SearchFast.pdb
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\obj\x86\Debug\SearchFast.Form1.resources
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\obj\x86\Debug\SearchFast.Properties.Resources.resources
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\obj\x86\Debug\SearchFast.csproj.GenerateResource.Cache
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\obj\x86\Debug\SearchFast.exe
+D:\Dokumenty\PROGRAMY by MasKAT\SearchFast\SearchFast\obj\x86\Debug\SearchFast.pdb

@@ -1,0 +1,8 @@
+
+***** CHANGELOG *****
+
+** ver. 1.2.2 **
+POPRAWIONE:
+- blad gdy w folderze sa chronione pliki/foldery ... zwraca brak dostepu
+ZNANE BLEDY:
+- proces po zamknieciu programu nie wylacza sie

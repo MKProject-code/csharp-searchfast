@@ -1,0 +1,8 @@
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\Release\SearchFast.Form1.resources
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\Release\SearchFast.Properties.Resources.resources
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\Release\SearchFast.csproj.GenerateResource.cache
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\Release\SearchFast.csproj.CoreCompileInputs.cache
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\Release\SearchFast.csprojAssemblyReference.cache
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\bin\Release\SearchFast v1.2.4.exe.config
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\bin\Release\SearchFast v1.2.4.exe
+D:\STARE\dysk D\Dokumenty\Portfolio\PROGRAMY C# by MasKAT\Programy C# - MasKAT Project @ 2012-2016\SearchFast (2016)\SearchFast\obj\Release\SearchFast v1.2.4.exe

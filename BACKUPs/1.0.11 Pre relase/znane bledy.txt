@@ -1,0 +1,3 @@
+przykladowo:
+gdy wpiszemy w szukanym rozszezeniu pliku znaki niedozwolone np. "
+to wyrzuci blad

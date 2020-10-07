@@ -1,0 +1,19 @@
+
+***** CHANGELOG *****
+
+** ver. 1.2.2 **
+POPRAWIONE:
+- blad gdy w folderze sa chronione pliki/foldery ... zwraca brak dostepu
+ZNANE BLEDY:
+- proces po zamknieciu programu nie wylacza sie
+
+
+ * 
+ * 1.2.6 @ 2013-2020 [27.03.2020] - poprawienie błędu nie wyświetlania znalezionego pliku oraz kilka innych mniej ważnych + dodanie kilku usprawnień oraz pomijanie błędów w przypadku braku dostępu do jakiegoś folderu.
+ * 1.2.7 @ 2013-2020 [27.03.2020] - dodanie przycisku "Pokaz wyniki" oraz zmiana dzialania przycisku "Wróć" - teraz wraca do widoku głównego bez przerywania przeszukiwanie + przycisk "Otworz folder" otwiera explorer wraz z zaznaczonym plikiem docelowym + poprawienie bledu pojawianiem sie informacji "Brak wynikow" w momecie kiedy pliki zostaly znalezione ale wyszukiwanie trwalo za szybko aby zarejestrowac ich znalezienie
+ * 
+
+
+
+
+

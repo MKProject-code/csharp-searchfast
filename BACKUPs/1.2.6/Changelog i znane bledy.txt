@@ -1,0 +1,12 @@
+
+***** CHANGELOG *****
+
+** ver. 1.2.2 **
+POPRAWIONE:
+- blad gdy w folderze sa chronione pliki/foldery ... zwraca brak dostepu
+ZNANE BLEDY:
+- proces po zamknieciu programu nie wylacza sie
+
+
+ * 1.2.6 @ 2016-2020
+	- poprawienie błędu nie wyświetlania znalezionego pliku oraz kilka innych mniej ważnych + dodanie kilku usprawnień oraz pomijanie błędów w przypadku braku dostępu do jakiegoś folderu.
